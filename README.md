@@ -16,7 +16,7 @@
 # 📙 راهنمای نصب
 نصب این چیدمان به راحتی واردکردن (import) یک فایله. در ادامه، به روش قدم‌به‌قدم پیشنهادی می‌پردازم، و در انتها روش‌های دیگری رو هم معرفی می‌کنم.
 
-۱. نرم‌افزار  [Keyboard Layout Manager](https://www.dropbox.com/s/okuegxt4eszvi6n/Keyboard%20Layout%20Manager.zip) رو دانلود و نصب کنید؛
+۱. نرم‌افزار  [Keyboard Layout Manager](https://www.dropbox.com/sh/mkk26m5xndqi3tu/AAC9ufq_X2fVe3-9xMvPjxAWa) رو دانلود و نصب کنید؛
 
 ![1  Installation](https://user-images.githubusercontent.com/63400670/128535378-0b109a29-c555-46c9-a8f0-6eead878fbfd.jpg "نصب نرم‌افزار")
 
@@ -32,7 +32,7 @@
 
 ![4  Import](https://user-images.githubusercontent.com/63400670/128536689-28ed8c51-ddcb-4063-a55a-ea1812172116.jpg "واردکردن چیدمان جدید")
 
-۵. فایل [Persian.klm2000](https://www.dropbox.com/s/pghdqxy4x9eucb6/Persian.klm2000) رو دانلود و انتخاب کرده و گزینهٔ Open رو بزنید؛
+۵. فایل [Persian.klm2000](https://www.dropbox.com/sh/mkk26m5xndqi3tu/AAC9ufq_X2fVe3-9xMvPjxAWa) رو دانلود و انتخاب کرده و گزینهٔ Open رو بزنید؛
 
 ![5  Persian](https://user-images.githubusercontent.com/63400670/128536915-ff593769-d632-4f83-9613-91caf325e379.jpg "فایل چیدمان جدید")
 
