@@ -16,7 +16,7 @@
 # 📙 راهنمای نصب
 نصب این چیدمان به راحتی واردکردن (import) یک فایله. در ادامه، به روش قدم‌به‌قدم پیشنهادی می‌پردازم، و در انتها روش‌های دیگری رو هم معرفی می‌کنم.
 
-۱. نرم‌افزار  [Keyboard Layout Manager](https://www.dropbox.com/s/okuegxt4eszvi6n/Keboard%20Layout%20Manager%20Lite%20%28x64%29.zip) رو دانلود و نصب کنید؛
+۱. نرم‌افزار  [Keyboard Layout Manager](https://www.dropbox.com/s/okuegxt4eszvi6n/Keyboard%20Layout%20Manager.zip) رو دانلود و نصب کنید؛
 
 ![1  Installation](https://user-images.githubusercontent.com/63400670/128535378-0b109a29-c555-46c9-a8f0-6eead878fbfd.jpg "نصب نرم‌افزار")
 
